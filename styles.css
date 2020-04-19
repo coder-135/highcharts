@@ -1,0 +1,33 @@
+body {
+    font-family: WYekan !important;
+}
+
+h1 {
+    font-family: WYekan;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    color: #2b2e4a;
+}
+
+#container1 {
+    font-family: WYekan;
+}
+
+#container5 {
+    margin: 40px;
+}
+
+footer {
+    padding: 3% 15%;
+    text-align: center;
+    background-color: #ffecda;
+}
+
+@font-face {
+    font-family: WYekan;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/WYekan.woff');
+    src: url('fonts/WYekan.eot') format('embedded-opentype'), url('fonts/WYekan.ttf') format('truetype');
+}
